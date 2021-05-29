@@ -1,7 +1,7 @@
 CAB202 Microprocessors and Digital Systems
 
 
-**Weekly activities:**
+**Weekly AMS activities:**
 The week folders contain both workshop questions and weekly assessed questions.
 
 **Assignment 1:**
